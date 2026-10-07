@@ -1,8 +1,8 @@
 # TrumpVerse
 
-A fullstack web application for managing a merchandise catalogue. Users can browse the full range of items, search by name, add new merch with an image, and edit or delete existing entries. Built as a React and TypeScript frontend on top of a .NET Web API with a SQLite database, with the API documented in Swagger and in a static documentation page served from `wwwroot`.
-
 **Disclaimer:** The case was provided by the school. The project focuses solely on fullstack web development and does not express political opinions or support.
+
+A fullstack web application for managing a merchandise catalogue. Users can browse the full range of items, search by name, add new merch with an image, and edit or delete existing entries. Built as a React and TypeScript frontend on top of a .NET Web API with a SQLite database, with the API documented in Swagger and in a static documentation page served from `wwwroot`.
 
 ## Features
 
