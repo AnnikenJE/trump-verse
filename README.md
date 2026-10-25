@@ -4,6 +4,13 @@
 
 A fullstack web application for managing a merchandise catalogue. Users can browse the full range of items, search by name, add new merch with an image, and edit or delete existing entries. Built as a React and TypeScript frontend on top of a .NET Web API with a SQLite database, with the API documented in Swagger and in a static documentation page served from `wwwroot`.
 
+## Background
+
+Originally built as the exam project for **Web Development (15 ECTS)**, Kristiania University College, graded **A**.
+
+All code is handwritten.
+AI is only used to help write the README and commit messages.
+
 ## Features
 
 - **Browse:** home page listing every item in the catalogue as responsive cards
@@ -99,9 +106,4 @@ CORS is open to any origin in development, so no proxy configuration is needed. 
 
 The API base URL is set in `trumpverse/src/services/MerchService.ts` and must be changed there if the backend is served from a different port.
 
-## Background
 
-Originally built as the exam project for **Web Development (15 ECTS)**, Kristiania University College, graded **A**.
-
-All code is handwritten.
-AI is only used to help write the README and commit messages.
